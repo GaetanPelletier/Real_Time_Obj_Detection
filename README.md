@@ -10,6 +10,6 @@ How to improve this code:
   - by using GPU acceleration and get more fps (decrease of computation time),
   - and by testing other object detection algorithms ([YOLOv4](https://github.com/AlexeyAB/darknet), a more complexe version of YOLOv5, a faster R-CNN algorithm with [TensorFlow Hub](https://www.tensorflow.org/hub?hl=fr), etc).
 
-**Example of object detection:**
+# Example of object detection
 
 ![Real_Time_Obj_Detection](https://github.com/GaetanPelletier/Real_Time_Obj_Detection/blob/main/img_algo.png)
